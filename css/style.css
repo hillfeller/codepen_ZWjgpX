@@ -27,7 +27,7 @@ li a:hover {
 }
 
 .about{
-  
+
   font-family: Indie Flower;
   text-align: center;
   padding: 20px 20px 20px 20px;
@@ -55,12 +55,13 @@ p {
 
 header {
   height: 300px;
-  padding-top: 20px; background:url("https://49.media.tumblr.com/aa18feac7ab000ea22f52bd8aaf36595/tumblr_nr8oi4Ulfo1tzbfwwo1_500.gif");
+  padding-top: 20px; background:url("https://49.media.tumblr.com/aa18feac7ab000ea22f52bd8aaf36595/tumblr_nr8oi4Ulfo1tzbfwwo1_500.gif")
+  background-repeat: no-repeat;
 }
 
 .main-nav,
 .main {
-  position: relative; 
+  position: relative;
 }
 .main-nav {
   background: #fff;
