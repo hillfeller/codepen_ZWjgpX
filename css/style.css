@@ -3,12 +3,19 @@
 .wrap{
   font-family: Indie Flower;
   text-align: center;
-  padding: 20px;
   color: black;
+  border: 5px;
+  border-image: http://infimum.dk/HTML/randomArt.html;
+  padding-bottom: 30px;
 }
 
 .container-fluid{
-  ;
+  border: 5px;
+  border-image: http://infimum.dk/HTML/randomArt.html;
+}
+.content{
+  border: 5px;
+  border-image: http://infimum.dk/HTML/randomArt.html;
 }
 
 ul {
@@ -54,9 +61,12 @@ p {
 }
 
 header {
-  height: 300px;
-  padding-top: 20px; background:url("https://i.ytimg.com/vi/hPCotoawhk0/maxresdefault.jpg")
-  background-repeat: no-repeat;
+  height: 350px;
+  padding-top: 20px; background:url("http://www.officinegm.com/wp-content/uploads/2013/10/background-light-white.jpg");
+
+
+ text-align: center;
+width:100%;
 }
 
 .main-nav,
