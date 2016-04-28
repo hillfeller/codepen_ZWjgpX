@@ -32,7 +32,7 @@ li a:hover {
 
 .about{
 
-  font-family: art-deco;
+  font-family: helvetica;
   text-align: center;
   padding: 80px 20px 20px 20px;
 }
@@ -43,7 +43,7 @@ li a:hover {
 }
 
 p {
-  font-family: art-deco;
+  font-family: helvetica;
   margin: 30px 30px 30px 200px;
   font-size: 16px;
   width: 70%;
@@ -52,7 +52,7 @@ p {
 }
 
 .projects {
-  font-family: art-deco;
+  font-family: helvetica;
   text-align: center;
   padding: 20px 20px 20px 20px;
 }
@@ -82,7 +82,7 @@ width:100%;
 
 .main-nav-scrolled {
   position: fixed;
-  width: 14%;
+  width: 16%;
   top: 0;
 }
 .main {
@@ -95,7 +95,7 @@ width:100%;
 #name {
   text-align: center;
   font-size: 48px;
-  font-family: art-deco;
+  font-family: helvetica;
   padding-top: 60px;
 }
 
@@ -107,5 +107,5 @@ img{
 }
 
 h2{
-  font-family:art-deco;
+  font-family:helvetica;
 }
