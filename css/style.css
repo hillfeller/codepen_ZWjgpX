@@ -1,7 +1,4 @@
 
-
-
-
 .container{
   width: 100%;
 }
@@ -80,7 +77,7 @@ h2{
   font-family:helvetica;
 }
 
-@media (min-width: 769px, max-height: 769px){
+@media (min-width: 769px){
 /*    .wrap{
      font-family: Helvetica;
        text-align: center;
