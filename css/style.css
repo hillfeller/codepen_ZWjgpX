@@ -2,7 +2,8 @@
 
 
 
-.container-fluid{
+.container{
+  width: 100%;
 }
 .content{
   background: #e0e0eb;
@@ -50,20 +51,22 @@ p {
   padding: 20px 20px 20px 20px;
 }
 
-header {
-  height: 300px;
-  padding-top: 20px; background:url("http://www.1280x800.net/large/201206/6501.jpg");
-  text-align: center;
-  width:100%;
-}
-
-
-
 #name {
   text-align: center;
-  font-size: 48px;
-  font-family: helvetica;
-  padding-top: 60px;
+  font-size: 72px;
+  font-family: Yeseva One;
+  padding-top: 200px;
+  color: white;
+  font-weight: ;
+}
+
+#name2 {
+  text-align: center;
+  font-size: 40px;
+  font-family: Yeseva One;
+  color: white;
+  font-weight: bold;
+
 }
 
 img{
@@ -78,13 +81,23 @@ h2{
 }
 
 @media (min-width: 769px){
-   .wrap{
-     min-height: calc(100vh - 89px);
+/*    .wrap{
      font-family: Helvetica;
        text-align: center;
        color: black;
        border: 5px;
-       padding-bottom: 30px;
+       padding-bottom: 60px;
+     } */
+
+     header {
+       height: 500px;
+       padding-top: 20px; background-image:linear-gradient(
+          rgba(0, 0, 0, 0.4),
+          rgba(0, 0, 0, 0.4) ),url("https://static.pexels.com/photos/68725/pexels-photo-68725.jpeg");
+           background-size: 100% 100%;
+
+       text-align: center;
+       width:100%;
      }
 
    .main-nav,
@@ -99,11 +112,12 @@ h2{
      box-shadow: 0 2px 3px rgba(0,0,0,.4);
      border-radius: 10px;
      padding: 8px;
+
    }
 
    .main-nav-scrolled {
      position: fixed;
-     width: 200px;
+     width: 300px;
      top: 0;
    }
    .main {
@@ -112,5 +126,13 @@ h2{
      column-count: 2;
      column-gap: 40px;
    }
+
+  .info{
+    padding-bottom: 50px;
+  }
+
+  .small-container{
+    padding:
+  }
 
  }
