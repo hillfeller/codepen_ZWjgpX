@@ -90,7 +90,7 @@ h2{
      } */
 
      header {
-       height: 500px;
+       height: 100vh;
        padding-top: 20px; background-image:linear-gradient(
           rgba(0, 0, 0, 0.4),
           rgba(0, 0, 0, 0.4) ),url("https://static.pexels.com/photos/68725/pexels-photo-68725.jpeg");
