@@ -186,3 +186,11 @@ li.dropdown {
   font-family: 'Playfair Display';
 
  }
+
+ .projects{
+  background-image:linear-gradient(
+          rgba(0, 0, 0, 0.6),
+          rgba(0, 0, 0, 0.6)
+    ),url(https://static.pexels.com/photos/1755/purple-abstract-blur-bokeh.jpg);
+  color: white;
+}
