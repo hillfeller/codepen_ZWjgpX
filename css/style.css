@@ -176,5 +176,13 @@ li.dropdown {
   .small-container{
     padding: 30px;
   }
+  .about{
+    background-image:linear-gradient(
+            rgba(0, 0, 0, 0.6),
+            rgba(0, 0, 0, 0.6) ),url("https://static.pexels.com/photos/5294/pattern-abstract-honeycomb-metal.jpg");
+             background-size: ;
+    color: white;
+    font-family: Helvetica;
 
+   }
  }
