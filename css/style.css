@@ -179,6 +179,7 @@ li.dropdown {
   }
 
 .about{
+  height: 100vh;
   background-image:linear-gradient(
           rgba(0, 0, 0, 0.7),
           rgba(0, 0, 0, 0.7) ),url("https://static.pexels.com/photos/5294/pattern-abstract-honeycomb-metal.jpg");
